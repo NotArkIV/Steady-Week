@@ -1,0 +1,17 @@
+{
+  "name": "Steady Week",
+  "short_name": "Steady Week",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f5ef",
+  "theme_color": "#17251f",
+  "description": "A personal habit, schedule and finance tracker.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
